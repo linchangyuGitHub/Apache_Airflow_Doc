@@ -12,4 +12,4 @@
 * E-Mail: linchangyu@yeah.net
 * WeChat：linchangyu_job
 
-[Get Started](#quick-start)
+[Get Started](#Apache_Airflow_Doc)
