@@ -1,4 +1,4 @@
-![](.Home_images/e00a7b43.png)
+![](.images/.Home_images/e00a7b43.png)
 # Apache Airflow 官方文档
 
 Airflow 是一个以编程方式创作、调度和监控工作流程的平台。
