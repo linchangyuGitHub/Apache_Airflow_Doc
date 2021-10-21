@@ -24,7 +24,7 @@ Airflow 调度程序在遵循指定的依赖项的同时在一组工作节点（
  - **弹性伸缩**： Airflow 具有模块化的架构，使用消息队列协调任意数量的工作节点，并可无限的扩展延伸
 
 
-## 除此之外
+## 此外
 
 Airflow 不是一个数据流解决方案，任务不能将数据从一个存储引擎移动到另一个（尽管任务可以交换元数据，但这和数据流不是一个概念）。
 Airflow 不是 [Spark Streaming](http://spark.apache.org/streaming/) 或 [Storm](https://storm.apache.org/) ，
